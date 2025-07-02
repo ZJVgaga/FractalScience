@@ -21,7 +21,7 @@ FractalFL的架构图：![image](https://github.com/user-attachments/assets/b5d2
 FractalScience的源码：通过网盘分享的文件：FractalScience
 链接: https://pan.baidu.com/s/1eEHKzKQ6CbxxK7WhcSo-eA?pwd=iu9m 提取码: iu9m 
 
-FractalFL的使用示意：https://www.capcut.cn/share/7521985646446171416?t=1， 通过剪映给你分享了"FractalScience视屏教程"，请查看审阅
+FractalFL的使用示意：https://www.capcut.cn/share/7521985646446171416?t=1 通过剪映给你分享了"FractalScience视屏教程"，请查看审阅
     访问密码：92ZF（暂定）
 
 所需要的配置在environment.yaml当中
