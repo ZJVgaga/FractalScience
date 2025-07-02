@@ -24,6 +24,8 @@ FractalScience的源码：通过网盘分享的文件：FractalScience
 FractalFL的使用示意：https://www.capcut.cn/share/7521985646446171416?t=1， 通过剪映给你分享了"FractalScience视屏教程"，请查看审阅
     访问密码：92ZF（暂定）
 
+所需要的配置在environment.yaml当中
+
 如果使用的话一定要给作者评星（方便给作者积累履历）
 
 有对代码贡献的人员将会在后续框架论文发表中署名或致谢（按贡献大小排名，直到满员）
